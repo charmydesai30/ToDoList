@@ -1,0 +1,44 @@
+
+   {
+    "todolist": [
+      {
+        "title": "Fitness",
+        "todoItem": "Do Yoga",
+        "doIt":"Jogging",
+        "Author": "anushree",
+        "Date": "2018-08-09"
+      },
+      {
+        "title": "Dance",
+        "todoItem": "Do salsa",
+        "doIt":"Do Hip-hop",
+        "Author": "anushree",
+        "Date": "2018-08-09"
+      },
+      {
+        "title": "Study",
+        "todoItem": "Do Assignment",
+        "doIt":"Read Notes",
+        "Author": "anushree",
+        "Date": "2018-08-09"
+      },
+      {
+        "title": "Play",
+        "todoItem": "Cycling",
+        "doIt":"Skipping",
+        "Author": "anushree",
+        "Date": "2018-08-09"
+      },
+   
+      {
+        "title": "cook",
+        "todoItem": "Make Pasta",
+        "doIt":"Make Maggi",
+        "Author": "anushree",
+        "Date": "2018-08-09"
+        
+      }
+    ]
+  }
+    
+  
